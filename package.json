@@ -1,0 +1,26 @@
+{
+  "name": "keylock",
+  "version": "1.0.0",
+  "description": "Lock stuff with keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekkyrek/keylock.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "file",
+    "lock",
+    "password"
+  ],
+  "author": "RekkyRek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rekkyrek/keylock/issues"
+  },
+  "homepage": "https://github.com/rekkyrek/keylock#readme"
+}
