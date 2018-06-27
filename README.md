@@ -23,7 +23,7 @@ Unlock something `const unlocked = lock.unlock(locked)`
 | .lock         | data[, options] |
 | .unlock       | data[, options] |
 #### Options?
-| Key                   | Example                   |
+| Option                | Example                   |
 | --------------------- | ------------------------- |
 | algoritm              | aes-256-cbc, aes192, rc2  |
 | inputEncoding         | binary, utf8, hex         |
