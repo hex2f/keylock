@@ -1,7 +1,7 @@
 {
   "name": "keylock",
   "version": "1.0.0",
-  "description": "Lock stuff with keys",
+  "description": "Lock stuff with keys.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
