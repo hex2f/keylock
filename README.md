@@ -5,9 +5,13 @@ KeyLock is a neat little wrapper around the built-in nodejs crypto module.
 
 ### Well, how do i use it?
 Install it `npm i keylock`
+
 Require it `const KeyLock = require('keylock')`
+
 Initialize it `const lock = new KeyLock('some password')`
+
 Lock something `const locked = lock.lock('secret message')`
+
 Unlock something `const unlocked = lock.unlock(locked)`
 
 #### More Detail
